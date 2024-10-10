@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@types/chrome':
-        specifier: ^0.0.277
-        version: 0.0.277
       jwt-decode:
         specifier: ^4.0.0
         version: 4.0.0
@@ -21,6 +18,9 @@ importers:
       '@testing-library/jest-dom':
         specifier: ^6.4.6
         version: 6.5.0
+      '@types/chrome':
+        specifier: ^0.0.277
+        version: 0.0.277
       '@types/jest':
         specifier: ^29.5.12
         version: 29.5.13
