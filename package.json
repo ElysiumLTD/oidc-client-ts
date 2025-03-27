@@ -35,8 +35,7 @@
     "prepack": "npm run build",
     "test": "tsc && jest",
     "typedoc": "typedoc",
-    "lint": "eslint --max-warnings=0 --cache .",
-    "prepare": "husky"
+    "lint": "eslint --max-warnings=0 --cache ."
   },
   "dependencies": {
     "jwt-decode": "^4.0.0"
